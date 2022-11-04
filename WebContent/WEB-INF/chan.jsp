@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>내일부터 주말입니다.</h1>
+	<h1>내일부터 주말입니다. </h1>
 </body>
 </html>
