@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>뭐임뭐임dㅇ</h1>
+	<h1>어떤 일이 일어나는지 잘 모르겠다.</h1>
 </body>
 </html>
